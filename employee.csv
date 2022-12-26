@@ -1,1 +1,17 @@
-
+emp_id,first_name,last_name,email,gender,age,salary,designation,department,joining_date
+emp_1,Vishvajit,Rao,abc1@gmail.com,Male,24,25000,Python Developer,Coding,2021-12-23
+emp_2,Vinay,Kumar,abc2@gmail.com,Male,22,35000,Angular Developer,Coding,2020-08-22
+emp_3,Minakshi,Kumary,abc3@gmail.com,Female,25,30000,SEO Specialist,SEO,2021-07-20
+emp_4,John,Doe,abc4@gmail.com,Male,30,80000,Data Engineer,Data,2020-11-06
+emp_5,Akash,Saini,abc5@gmail.com,Male,23,25500,Junior Data Engineer,Data,2022-01-30
+emp_6,Harshita,Singh,abc6@gmail.com,Female,24,20000,Junior Accountant,Account and Finance,2021-12-25
+emp_7,Ayush,Shukla,abc7@gmail.com,Male,23,23500,Angular Developer,Coding,2021-08-20
+emp_8,Abhishek,Mishra,abc8@gmail.com,Male,30,120000,Senior Data Engineer,Data,2018-05-29
+emp_9,Vaishanvi,Mehta,abc9@gmail.com,Female,28,75250,Senior SEO Specialist,SEO,2020-02-26
+emp_10,Mahima,Chaudhari,abc10@gmai.com,Female,27,40300,Junior Data Scientist,Data,2021-03-23
+emp_11,Arushi,Shulka,abc11@gmail.com,Female,24,46000,Junior Data Analyst,Data,2021-05-29
+emp_12,Mahesh,Kumar,abc12@gmail.com,Male,29,90500,Senior Python Developer,Coding,2020-03-22
+emp_13,Ajay,Gupta,abc13@gmail.com,Male,30,85340,Senior Angular Developer,Coding,2021-08-28
+emp_14,Manish,Das,abc14@gmail.com,Male,35,90000,Senior HR Manager,HR,2021-07-20
+emp_15,David,Russel,abc15@gmail.com,Male,30,105000,Senior Data Analyst,Data,2021-05-21
+emp_16,Nishant,Chahal,abc16@gmail.com,Male,30,65000,Senior Accountant,Account and Finance,2021-09-24
